@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://fnsx.now.sh/?/Room/fnsx.png</string>
+     <string>https://xj.now.sh/?/room/image/fnsx.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,14 +31,14 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://fnsx.now.sh/?/Room/fnsx.pngg</string>
+     <string>https://xj.now.sh/?/room/image/fnsx.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>abc pj</string>
+    <string>001</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
