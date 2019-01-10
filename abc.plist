@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <string>https://xj.now.sh/?/room/ipa/Focos%201.6.2.ipa</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <string>http://a1071.phobos.apple.com/us/r30/Purple124/v4/df/10/52/df10523d-0bad-e3bd-1103-6c526f99a3b3/icon114x114.png</string>
+    </dict>
+    <dict>
+     <key>kind</key>
+     <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
+     <key>url</key>
+     <string>http://a1071.phobos.apple.com/us/r30/Purple124/v4/df/10/52/df10523d-0bad-e3bd-1103-6c526f99a3b3/icon114x114.png</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <string>Focos</string>
+    <key>bundle-version</key>
+    <string>1.6.2</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <string>fnsx</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
